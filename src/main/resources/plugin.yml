@@ -1,0 +1,7 @@
+name: Suicide
+version: '${project.version}'
+main: space.yurisi.suicide.Suicide
+api-version: '1.20'
+commands:
+  su:
+    description: 自殺します
